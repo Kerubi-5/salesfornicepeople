@@ -15,7 +15,7 @@ imagePath: Media/SalesFlowCoach.app_Confidence-vs-Neediness-people-pleasing-and-
 
 Testing Martin
 
-Hello now
+Hello nowsssss
 
 "The problem with communication is the Illusion that it has take place." - George Bernard Shaw (The quote is attributed to Shaw, but I couldn't verify it's actually his. Holds true regardless)
 
