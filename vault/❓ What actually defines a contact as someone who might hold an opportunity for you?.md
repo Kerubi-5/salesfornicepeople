@@ -2,6 +2,10 @@
 pubDate: 2022-06-06
 internalTags: MYNO
 title: ❓ What actually defines a contact as someone who might hold an opportunity for you?
+categories:
+  - Hello
+  - Gordon Ramsay
+  - Hell's kitchen
 ---
 
 > [[🔁 Workflows]] >> [[⛏️ MYNO = Mine Your Network for Opportunities|Mine Your Network for Opportunities]] >> Two simple criteria for listing names
