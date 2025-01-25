@@ -3,7 +3,7 @@ pubDate: 2022-06-06
 tags:
   - Workflows
 excerpt: If you're new here or you've been away for a while, start here.
-imagePath: '""'
+imagePath: 'https://salesflowcoach.app/Media/SalesFlowCoach.app_Want-more-sales_clean-up-deadwood-and-eliminate-opportunities_MartinStellar.jpeg'
 ---
 
 
