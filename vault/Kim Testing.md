@@ -2,7 +2,7 @@
 pubDate: 2025-10-10
 ---
 
-dasdasdasdasdsadasdasdasd
+Hello Martin!
 
 I shoulod be updated now
 
