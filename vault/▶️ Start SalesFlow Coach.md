@@ -6,7 +6,6 @@ excerpt: If you're new here or you've been away for a while, start here.
 imagePath: 'https://salesflowcoach.app/Media/SalesFlowCoach.app_Want-more-sales_clean-up-deadwood-and-eliminate-opportunities_MartinStellar.jpeg'
 ---
 
-Fabio!
 
 Hello World!
 
