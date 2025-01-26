@@ -1,5 +1,5 @@
 ---
-post_status: 'Draft'
+post_status: 'Publish'
 ---
 
 I shoulod be updated now
