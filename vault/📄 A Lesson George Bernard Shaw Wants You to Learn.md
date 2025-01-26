@@ -8,7 +8,7 @@ type: sfcContent
 imagePath: Media/SalesFlowCoach.app_Confidence-vs-Neediness-people-pleasing-and-approval-seeking.jpg_MartinStellar.jpg
 ---
 
-
+Hello George Bernard
 
 ![](Media/SalesFlowCoach.app_Confidence-vs-Neediness-people-pleasing-and-approval-seeking.jpg_MartinStellar.jpg)
 
