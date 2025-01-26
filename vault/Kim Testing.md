@@ -1,5 +1,5 @@
 ---
-post_status: 'Draft'
+post_status: 'Published'
 ---
 
 Hello testing page for md
