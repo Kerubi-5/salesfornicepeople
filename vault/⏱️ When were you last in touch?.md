@@ -5,7 +5,8 @@ pubDate: 2025-01-10
 type: sfcContent
 location: 
 cdate: 2025-01-10 Fri
-episode: 
+episode:
+status: "Draft"
 
 ---
 The people we're most often spend time with are also the people we have a lot in common with, and that includes opportunities. 
