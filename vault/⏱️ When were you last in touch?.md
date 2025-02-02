@@ -9,6 +9,8 @@ episode:
 status: "Draft"
 
 ---
+TOo many that I cant even count them yea 
+
 The people we're most often spend time with are also the people we have a lot in common with, and that includes opportunities. 
 
 But those we haven't spoken to in ages, those are often the ones that can bring unexpected opportunities or introductions. 
