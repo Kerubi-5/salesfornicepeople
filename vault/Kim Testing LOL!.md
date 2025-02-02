@@ -6,7 +6,7 @@ categories:
 status: "Draft"
 ---
 
-Gitra
+Gitra Harana
 
 Parokya ni Edgar.
 
