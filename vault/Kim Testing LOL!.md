@@ -5,9 +5,6 @@ categories:
   - Out
 ---
 
-Hello Martin!
-adasdasd
-updating now!
 
 I shoulod be updated now
 
