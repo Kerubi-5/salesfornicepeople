@@ -6,25 +6,6 @@ categories:
 status: "Publish"
 ---
 
-Screendor
-
-Hinay
-
-Salfonh
-
-SElpon
-
-Gitra Harana
-
-Parokya ni Edgar.
-
-I shoulod be updated now
-
-shop
-
-Hello testing page for md
-
-
 NICE!
 
 
