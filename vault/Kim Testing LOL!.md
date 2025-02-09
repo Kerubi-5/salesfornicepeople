@@ -7,3 +7,5 @@ status: "Publish"
 ---
  
 Our second update!
+
+Fetched!
