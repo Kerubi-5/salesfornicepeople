@@ -5,6 +5,7 @@ tags:
 type: Landing
 date: "2022-11-12 Sat"
 title: ✅ SFC DevLog Newsletter signup
+status: "Draft"
 ---
 
 It was winter 2021, when I started talking with this developer called Binny.
