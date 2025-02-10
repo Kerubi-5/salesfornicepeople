@@ -5,8 +5,10 @@ tags:
 type: Landing
 date: "2022-11-12 Sat"
 title: ✅ SFC DevLog Newsletter signup
-status: "Draft"
+status: "Publish"
 ---
+
+Hey Martin, I've just updated this note
 
 It was winter 2021, when I started talking with this developer called Binny.
 
