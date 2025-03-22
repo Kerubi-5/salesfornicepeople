@@ -13,7 +13,7 @@ imagePath: Media/SalesFlowCoach.app_Farm-don't-hunt_Introduction-to-Sales-For-Ni
 ---
 
 ![](Media/SalesFlowCoach.app_Farm-don't-hunt_Introduction-to-Sales-For-Nice-People_MartinStellar.jpeg.jpeg)
-
+trest
 > [[🔁 Workflows]] >> [[⛏️ MYNO = Mine Your Network for Opportunities|Mine Your Network for Opportunities]] >> Introduction
 
 Your world and your network are filled with opportunities.
